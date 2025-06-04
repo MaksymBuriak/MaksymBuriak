@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Maksym Buriak</h1>
-<h3 align="center">I am a QA Tester based in Milton Keynes with 3 years of hands-on experience in manual testing for a worldwide known automotive brand Nissan. I've been a part of the team responsible for implementing the Google Assistant Services into the current Nissan Infotainment System on a new Nissan Qashqai(2024). I have a passion for solving problems and structuring my work I am currently heavily involved in developing my skills and knowledge in automation software testing by attending online courses and testing web applications for learning purposes. Although English is not my first language, I posses it to a very high standart, I look forward to transitioning to a Manual and Automation Test Engineer position</h3>
+<h1 align="center">Hi 👋, I'm Maks</h1>
+<h3 align="center">QA tester by day, web3 explorer by night. 🧪🚀
+One of those guys who built the best multimedia system for Nissan so far (yes, that _Nissan_).
+Now breaking and building stuff on the blockchain.
+Learning automation, smart contracts, and how not to break prod.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymburiak&label=Profile%20views&color=0e75b6&style=flat" alt="maksymburiak" /> </p>
 
